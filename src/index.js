@@ -226,7 +226,7 @@ function render(container, locations, onSearch, onSearchMyLocation) {
   paragraph.appendChild(
     document.createTextNode("Veldu stað til að sjá hita- og úrkomuspá.")
   );
-  heading2.appendChild(document.createTextNode("Satðsetningar"));
+  heading2.appendChild(document.createTextNode("Staðsetningar"));
   headerElement.appendChild(heading);
   headerElement.appendChild(paragraph);
   headerElement.appendChild(heading2);
